@@ -1,0 +1,23 @@
+footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: white;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+footer p {
+    color: black;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+footer a:hover {
+    color: rgb(89, 89, 192);
+}
