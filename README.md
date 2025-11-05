@@ -18,7 +18,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/flashmarket-react.git
+     git clone https://github.com/Aaronisaias/FlaskMarket-con-React.js.git
 Ingresa a la carpeta del proyecto:
 
 cd flashmarket-react
