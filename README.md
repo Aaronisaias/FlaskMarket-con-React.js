@@ -1,20 +1,82 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛒 FlashMarket – App de Supermercado con React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FlashMarket** es una aplicación web desarrollada con **React.js + Vite**, diseñada para calcular de forma rápida y sencilla el **total a pagar** por las compras diarias. Ideal para uso cotidiano o pequeños comercios que desean una herramienta ágil, moderna y funcional.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
 
-## React Compiler
+- **React.js** – Librería principal para la interfaz de usuario  
+- **Vite** – Entorno de desarrollo rápido y ligero  
+- **CSS / Tailwind (opcional)** – Estilos modernos y personalizables  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Instalación y configuración
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# FlaskMarket-con-React.js
->>>>>>> 8843acd50c2d4d1314a411c735ecb5c2ec68ca06
+Sigue estos pasos para ejecutar el proyecto localmente:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/flashmarket-react.git
+Ingresa a la carpeta del proyecto:
+
+cd flashmarket-react
+Instala las dependencias:
+
+npm install
+Inicia el servidor de desarrollo:
+
+npm run dev
+Abre el proyecto en tu navegador:
+👉 http://localhost:5173
+
+💡 Características principales
+🧮 Calcula automáticamente el total a pagar según los productos agregados.
+
+🏷️ Permite ingresar precios y cantidades de forma intuitiva.
+
+💰 Muestra el subtotal, impuestos y total final.
+
+⚡ Interfaz rápida, limpia y fácil de usar.
+
+💾 Posibilidad de reiniciar la lista o agregar nuevos productos.
+
+🧱 Estructura del proyecto
+📦 flashmarket-react
+├── 📁 src
+│   ├── 📁 components      # Componentes reutilizables
+│   ├── 📁 pages           # Páginas principales de la app
+│   ├── 📁 assets          # Imágenes y estilos
+│   ├── App.jsx            # Componente raíz
+│   ├── main.jsx           # Punto de entrada
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+🔧 Scripts disponibles
+npm run dev → Inicia el servidor de desarrollo
+
+npm run build → Genera la versión lista para producción
+
+npm run preview → Previsualiza el build final
+
+📘 Recomendaciones de desarrollo
+Si planeas escalar el proyecto o usarlo en producción:
+
+Considera usar TypeScript para un mejor control de tipos.
+
+Implementa ESLint para mantener un código limpio y consistente.
+
+Usa React Hooks para manejar estados y efectos de manera eficiente.
+
+🧑‍💻 Autor
+Desarrollado por: Aaron isaias medina
+📧 Contacto: medinaisaias484@gmail.com
+📅 Proyecto React.js – Supermercado / Cálculo de total a pagar
+
+---
+
+Listo para pegar tal cual en tu `README.md`.  
+¿Querés que te lo prepare con un encabezado centrado y un logo opcional (por ejemplo, para que 
