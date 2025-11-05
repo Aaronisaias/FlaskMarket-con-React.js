@@ -75,8 +75,3 @@ Usa React Hooks para manejar estados y efectos de manera eficiente.
 Desarrollado por: Aaron isaias medina
 📧 Contacto: medinaisaias484@gmail.com
 📅 Proyecto React.js – Supermercado / Cálculo de total a pagar
-
----
-
-Listo para pegar tal cual en tu `README.md`.  
-¿Querés que te lo prepare con un encabezado centrado y un logo opcional (por ejemplo, para que 
